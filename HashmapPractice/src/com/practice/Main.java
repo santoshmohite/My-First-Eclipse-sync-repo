@@ -1,6 +1,6 @@
 package com.practice;
 
-public class Main {
+public class Main  {
 	public static void main(String[] args) throws CloneNotSupportedException {
 /*		String str="12341511661";
 		System.out.println(str.substring(0, 5));
